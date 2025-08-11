@@ -40,10 +40,10 @@ auto/configure \
 3.Double-click stop.bat to stop the service.  
 
 # concise explanation​
-conf/nginx.conf 为nginx配置文件  
-RTMP监听 1935 端口  
-HTTP监听 80 端口  
-不支持exec
+conf/nginx.conf 为nginx配置文件。    
+RTMP监听 1935 端口。  
+HTTP监听 80 端口。  
+不支持exec。
 
 conf/nginx.conf is the Nginx configuration file.  
 RTMP listens on port 1935.  
