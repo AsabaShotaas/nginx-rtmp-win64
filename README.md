@@ -50,7 +50,7 @@ RTMP listens on port 1935.
 HTTP listens on port 80.  
 It does not support exec.  
 
-# credits
+# ​acknowledgements
 [Nginx](https://nginx.org/)   
 [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)  
 [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module/)
